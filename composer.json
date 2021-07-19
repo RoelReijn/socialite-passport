@@ -1,5 +1,5 @@
 {
-    "name": "jhnbrn90/socialite-passport",
+    "name": "roelreijn/socialite-passport",
     "description": "Easy socialite authentication using Laravel passport identity provider.",
     "keywords": [
         "jhnbrn90",
@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.2",
         "illuminate/support": "^6|^7|^8",
-        "socialiteproviders/laravelpassport": "^1.0|^4.0",
+        "socialiteproviders/laravelpassport": "^4.0",
         "laravel/socialite": "^4.3|^5"
     },
     "require-dev": {
